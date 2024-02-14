@@ -1,0 +1,17 @@
+{
+  "name": "spacebattle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SB.js",
+  "scripts": {
+    "start": "nodemon SB.js",
+    "start2": "nodemon SBtry.js",
+    "start3": "nodemon SBhtml.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
